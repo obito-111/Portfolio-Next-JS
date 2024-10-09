@@ -77,7 +77,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   {showResume && (
                     <Button
                       onClick={() =>
-                        window.open("mailto:lakhant444@gmail.com")
+                        window.open("https://drive.google.com/file/d/1hSdEj8tva6P03AGedVbDxgvf7pBmv1Ok/view?usp=drivesdk")
                       }
                     >
                       Resume
